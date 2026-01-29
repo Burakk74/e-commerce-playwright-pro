@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Playwright & Pytest
+test-results/
+screenshots/
+rapor.html
+.pytest_cache/
